@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Erik Morales  👋
 
 <!--
 **HaloReach2552/HaloReach2552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
