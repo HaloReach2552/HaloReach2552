@@ -1,6 +1,6 @@
 ### Hi there, I am Erik Morales  👋
 
-- 🔭 I’m currently working on my proyects which are on my repositories and I am student at PUCP university: 
+- 🔭 I’m currently working on my proyects which are on my repositories and I am graduate at PUCP university: 
 - Here I leave the links:
 - https://github.com/HaloReach2552/Data_repository/tree/main/Benchmark/Python
 - https://github.com/HaloReach2552/Selenium.py/tree/main/files
